@@ -44,3 +44,10 @@
 glove-data/
 hf_datasets_cache/
 a2/data/
+a2/results/
+a3/outputs/
+a3/runs/
+a3/sanity_check_en_es_data/
+a3/zh_en_data
+a3/model.bin
+a3/model.bin.optim
